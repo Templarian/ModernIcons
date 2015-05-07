@@ -11,21 +11,21 @@ Three icon packs targetting Modern applications. Work in progress naming...
 The standard qualifiers are used in the naming of all SVG files.
 
 ```text
-/Office/format-indent-increase.scale-80.svg
-        format-indent-increase.scale-100.svg
-        format-indent-increase.scale-140.svg
-        format-indent-increase.scale-180.svg
-        format-indent-increase.scale-240.svg
-        format-indent-increase.scale-80_contrast-black.svg
-        format-indent-increase.scale-100_contrast-black.svg
-        format-indent-increase.scale-140_contrast-black.svg
-        format-indent-increase.scale-180_contrast-black.svg
-        format-indent-increase.scale-240_contrast-black.svg
-        format-indent-increase.scale-80_contrast-white.svg
-        format-indent-increase.scale-100_contrast-white.svg
-        format-indent-increase.scale-140_contrast-white.svg
-        format-indent-increase.scale-180_contrast-white.svg
-        format-indent-increase.scale-240_contrast-white.svg
+/Office/icon-name.scale-80.svg
+        icon-name.scale-100.svg
+        icon-name.scale-140.svg
+        icon-name.scale-180.svg
+        icon-name.scale-240.svg
+        icon-name.scale-80_contrast-black.svg
+        icon-name.scale-100_contrast-black.svg
+        icon-name.scale-140_contrast-black.svg
+        icon-name.scale-180_contrast-black.svg
+        icon-name.scale-240_contrast-black.svg
+        icon-name.scale-80_contrast-white.svg
+        icon-name.scale-100_contrast-white.svg
+        icon-name.scale-140_contrast-white.svg
+        icon-name.scale-180_contrast-white.svg
+        icon-name.scale-240_contrast-white.svg
 ```
 
 # License
