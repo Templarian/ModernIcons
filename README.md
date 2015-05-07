@@ -28,6 +28,10 @@ The standard qualifiers are used in the naming of all SVG files.
         icon-name.scale-240_contrast-white.svg
 ```
 
+## Color Pallet
+
+The color pallet is sampled from all the icons used in all the Universal Applications.
+
 # License
 
 Coming Soon... something open source that retains the 'Modern Icons' naming, but allows Individual and Commercial use.
