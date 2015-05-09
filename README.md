@@ -28,6 +28,16 @@ The standard qualifiers are used in the naming of all SVG files.
         icon-name.scale-240_contrast-white.svg
 ```
 
+The scaling breaks down to
+
+| Scale      | 20  | 24  |
+|------------|-----|-----|
+| scale-80   | ??  | ??  |
+| scale-100  | 20  | 24  |
+| scale-140  | ??  | ??  |
+| scale-180  | ??  | ??  |
+| scale-240  | ??  | ??  |
+
 ## Color Pallet
 
 The color pallet is sampled from all the icons used in all the Universal Applications.
