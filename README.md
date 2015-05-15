@@ -3,40 +3,24 @@
 Three icon packs targetting Modern applications. Work in progress naming...
 
 - Modern Icons - Office - 24x24
-- Modern Icons - Thin - 20x20
-- Modern Icons - Sturdy - 20x20
+- Modern Icons - Thin - 16x16
+- Modern Icons - Sturdy - 16x16
 
 ## Folder Naming
 
-The standard qualifiers are used in the naming of all SVG files.
+The standard qualifiers are used in the naming of all SVG files. Scale qualifiers are grouped as follows `100`, `200`, `300`, `400` / `125`, `250` / `150`.
 
 ```text
-/Office/icon-name.scale-80.svg
-        icon-name.scale-100.svg
-        icon-name.scale-140.svg
-        icon-name.scale-180.svg
-        icon-name.scale-240.svg
-        icon-name.scale-80_contrast-black.svg
+/Office/icon-name.scale-100.svg
+        icon-name.scale-125.svg
+        icon-name.scale-150.svg
         icon-name.scale-100_contrast-black.svg
-        icon-name.scale-140_contrast-black.svg
-        icon-name.scale-180_contrast-black.svg
-        icon-name.scale-240_contrast-black.svg
-        icon-name.scale-80_contrast-white.svg
+        icon-name.scale-125_contrast-black.svg
+        icon-name.scale-150_contrast-black.svg
         icon-name.scale-100_contrast-white.svg
-        icon-name.scale-140_contrast-white.svg
-        icon-name.scale-180_contrast-white.svg
-        icon-name.scale-240_contrast-white.svg
+        icon-name.scale-125_contrast-white.svg
+        icon-name.scale-150_contrast-white.svg
 ```
-
-The scaling breaks down to
-
-| Scale      | 20  | 24  |
-|------------|-----|-----|
-| scale-80   | ??  | ??  |
-| scale-100  | 20  | 24  |
-| scale-140  | ??  | ??  |
-| scale-180  | ??  | ??  |
-| scale-240  | ??  | ??  |
 
 ## Color Pallet
 
