@@ -1,26 +1,10 @@
 # Modern Icons
 
-Three icon packs targetting Modern applications. Work in progress naming...
+Modern Icons are targetted at those implementing the Modern Design Language in their applications.
 
-- Modern Icons - Office - 24x24
-- Modern Icons - Thin - 16x16
-- Modern Icons - Sturdy - 16x16
+## Optimization
 
-## Folder Naming
-
-The standard qualifiers are used in the naming of all SVG files. Scale qualifiers are grouped as follows `100`, `200`, `300`, `400` / `125`, `250` / `150`.
-
-```text
-/Office/icon-name.scale-100.svg
-        icon-name.scale-125.svg
-        icon-name.scale-150.svg
-        icon-name.scale-100_contrast-black.svg
-        icon-name.scale-125_contrast-black.svg
-        icon-name.scale-150_contrast-black.svg
-        icon-name.scale-100_contrast-white.svg
-        icon-name.scale-125_contrast-white.svg
-        icon-name.scale-150_contrast-white.svg
-```
+While the source icons in the repo are optimized far greater than the stock MDL2 font provided in Windows 10, they are not compressed. Please go to ModernIcons.io to download compressed icons and fonts.
 
 ## Color Pallet
 
