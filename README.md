@@ -2,6 +2,8 @@
 
 Modern Icons are targetted at those implementing the Modern Design Language in their applications.
 
+Coming Soon: [ModernIcons.io](http://modernicons.io)
+
 ## Optimization
 
 While the source icons in the repo are optimized far greater than the stock MDL2 font provided in Windows 10, they are not compressed. Please go to ModernIcons.io to download compressed SVG icons and fonts.
