@@ -1,8 +1,8 @@
 # Modern Icons
 
-Modern Icons are targetted at those implementing the Modern Design Language in their applications.
+> Note: Archived many years ago. Letting the domain expire also. Use http://materialdesignicons.com/ if you can.
 
-Coming Soon: [ModernIcons.io](http://modernicons.io)
+Modern Icons are targetted at those implementing the Modern Design Language in their applications.
 
 ## Optimization
 
